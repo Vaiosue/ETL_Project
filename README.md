@@ -1,4 +1,4 @@
-# ETLProjectHW
+# ETL Project
 Economic Freedom (EF) is the basic human right of every individual to control their own labor and property. In an economically free society, individuals can control their spending and have access to upward mobility. Also, EF is based on the government allowing for goods and labor to move freely.
 
 EXTRACT
